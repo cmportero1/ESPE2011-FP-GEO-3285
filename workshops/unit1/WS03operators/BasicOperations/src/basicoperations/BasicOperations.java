@@ -84,7 +84,7 @@ public class BasicOperations {
         System.out.println("The subtraction of" + minuend + " - " + subtrahend + 
                 "is equal to --> " + (minuend - subtrahend));
         
-        System.out.println("The multiplication of" + multiplaying + " * " +
+        System.out.println("The multiplication of" + multiplying + " * " +
                 multiplier + "is equal to --> " + (multiplaying * multiplier));
                 
         System.out.println("The division of" + dividend + " / " +
