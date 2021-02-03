@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author USUARIO
+ * @author Carlita 11
  */
 public class HW09EmbeddedStructures {
 
@@ -18,7 +18,8 @@ public class HW09EmbeddedStructures {
      */
     public static void main(String[] args) {
         // TODO code application logic here
- System.out.println("||||||||| Embedded Structures||||||||  ");
+        
+        System.out.println("||||||||| Embedded Structures||||||||  ");
         System.out.println(" programmers:\n Ochoa Erick\n"
                 + " Portero Carla\n"
                 + " Pilataxi Kyara\n"
