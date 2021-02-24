@@ -110,7 +110,7 @@ public class HW14 {
         
                 }
                 case 3 -> {
-                    System.out.println("------- Good Bye -------");
+                    System.out.println("------- Bye Bye -------");
                     System.exit(0);
                }
 
